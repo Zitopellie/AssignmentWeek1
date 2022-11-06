@@ -1,0 +1,15 @@
+E:\HACKCITY\AssignmentWeek1\Milestone2\Milestone2\bin\Debug\net6.0\Milestone2.exe
+E:\HACKCITY\AssignmentWeek1\Milestone2\Milestone2\bin\Debug\net6.0\Milestone2.deps.json
+E:\HACKCITY\AssignmentWeek1\Milestone2\Milestone2\bin\Debug\net6.0\Milestone2.runtimeconfig.json
+E:\HACKCITY\AssignmentWeek1\Milestone2\Milestone2\bin\Debug\net6.0\Milestone2.dll
+E:\HACKCITY\AssignmentWeek1\Milestone2\Milestone2\bin\Debug\net6.0\Milestone2.pdb
+E:\HACKCITY\AssignmentWeek1\Milestone2\Milestone2\obj\Debug\net6.0\Milestone2.csproj.AssemblyReference.cache
+E:\HACKCITY\AssignmentWeek1\Milestone2\Milestone2\obj\Debug\net6.0\Milestone2.GeneratedMSBuildEditorConfig.editorconfig
+E:\HACKCITY\AssignmentWeek1\Milestone2\Milestone2\obj\Debug\net6.0\Milestone2.AssemblyInfoInputs.cache
+E:\HACKCITY\AssignmentWeek1\Milestone2\Milestone2\obj\Debug\net6.0\Milestone2.AssemblyInfo.cs
+E:\HACKCITY\AssignmentWeek1\Milestone2\Milestone2\obj\Debug\net6.0\Milestone2.csproj.CoreCompileInputs.cache
+E:\HACKCITY\AssignmentWeek1\Milestone2\Milestone2\obj\Debug\net6.0\Milestone2.dll
+E:\HACKCITY\AssignmentWeek1\Milestone2\Milestone2\obj\Debug\net6.0\refint\Milestone2.dll
+E:\HACKCITY\AssignmentWeek1\Milestone2\Milestone2\obj\Debug\net6.0\Milestone2.pdb
+E:\HACKCITY\AssignmentWeek1\Milestone2\Milestone2\obj\Debug\net6.0\Milestone2.genruntimeconfig.cache
+E:\HACKCITY\AssignmentWeek1\Milestone2\Milestone2\obj\Debug\net6.0\ref\Milestone2.dll
