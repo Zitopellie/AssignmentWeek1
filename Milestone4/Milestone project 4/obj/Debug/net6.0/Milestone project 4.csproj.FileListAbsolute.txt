@@ -1,0 +1,15 @@
+E:\HACKCITY\AssignmentWeek1\Milestone4\Milestone project 4\bin\Debug\net6.0\Milestone project 4.exe
+E:\HACKCITY\AssignmentWeek1\Milestone4\Milestone project 4\bin\Debug\net6.0\Milestone project 4.deps.json
+E:\HACKCITY\AssignmentWeek1\Milestone4\Milestone project 4\bin\Debug\net6.0\Milestone project 4.runtimeconfig.json
+E:\HACKCITY\AssignmentWeek1\Milestone4\Milestone project 4\bin\Debug\net6.0\Milestone project 4.dll
+E:\HACKCITY\AssignmentWeek1\Milestone4\Milestone project 4\bin\Debug\net6.0\Milestone project 4.pdb
+E:\HACKCITY\AssignmentWeek1\Milestone4\Milestone project 4\obj\Debug\net6.0\Milestone project 4.csproj.AssemblyReference.cache
+E:\HACKCITY\AssignmentWeek1\Milestone4\Milestone project 4\obj\Debug\net6.0\Milestone project 4.GeneratedMSBuildEditorConfig.editorconfig
+E:\HACKCITY\AssignmentWeek1\Milestone4\Milestone project 4\obj\Debug\net6.0\Milestone project 4.AssemblyInfoInputs.cache
+E:\HACKCITY\AssignmentWeek1\Milestone4\Milestone project 4\obj\Debug\net6.0\Milestone project 4.AssemblyInfo.cs
+E:\HACKCITY\AssignmentWeek1\Milestone4\Milestone project 4\obj\Debug\net6.0\Milestone project 4.csproj.CoreCompileInputs.cache
+E:\HACKCITY\AssignmentWeek1\Milestone4\Milestone project 4\obj\Debug\net6.0\Milestone project 4.dll
+E:\HACKCITY\AssignmentWeek1\Milestone4\Milestone project 4\obj\Debug\net6.0\refint\Milestone project 4.dll
+E:\HACKCITY\AssignmentWeek1\Milestone4\Milestone project 4\obj\Debug\net6.0\Milestone project 4.pdb
+E:\HACKCITY\AssignmentWeek1\Milestone4\Milestone project 4\obj\Debug\net6.0\Milestone project 4.genruntimeconfig.cache
+E:\HACKCITY\AssignmentWeek1\Milestone4\Milestone project 4\obj\Debug\net6.0\ref\Milestone project 4.dll

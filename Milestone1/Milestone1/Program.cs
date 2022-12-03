@@ -278,8 +278,6 @@ The cards should be printed with their English names. Use nested for loops and s
     #endregion
 
 
-
-
 }
 
 
