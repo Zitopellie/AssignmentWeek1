@@ -1,0 +1,5 @@
+E:\HACKCITY\AssignmentWeek1\Milestone5\WPF EVER NOTE CLONE\obj\Debug\net6.0-windows\WPF EVER NOTE CLONE.csproj.AssemblyReference.cache
+E:\HACKCITY\AssignmentWeek1\Milestone5\WPF EVER NOTE CLONE\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\HACKCITY\AssignmentWeek1\Milestone5\WPF EVER NOTE CLONE\obj\Debug\net6.0-windows\App.g.cs
+E:\HACKCITY\AssignmentWeek1\Milestone5\WPF EVER NOTE CLONE\obj\Debug\net6.0-windows\WPF EVER NOTE CLONE_MarkupCompile.cache
+E:\HACKCITY\AssignmentWeek1\Milestone5\WPF EVER NOTE CLONE\obj\Debug\net6.0-windows\WPF EVER NOTE CLONE_MarkupCompile.lref
